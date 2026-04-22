@@ -1,0 +1,21 @@
+# Project Todo
+
+- [x] Base gallery layout and scene root setup
+- [ ] Import placeholder exhibits and set transforms
+- [ ] Organize scene hierarchy and group prefabs
+- [ ] Adjust scales and alignment for imported models
+- [ ] Add display pedestals and secure anchors
+- [ ] Rework gallery partitions and sightlines
+- [ ] Tune ambient and directional lighting
+- [ ] Add signage prefabs and info panels
+- [ ] Fix exhibit colliders and interaction volumes
+- [ ] Update floor material and texture tiling
+- [ ] Place decorative props and material tweaks
+- [ ] Extend east wing and add structural arch
+- [ ] Add waypoint markers for navigation
+- [ ] Optimize mesh imports and LODs
+- [ ] Polish UI overlays and info panels
+- [ ] Fix camera and navigation edge cases
+- [ ] Final polish and performance tweaks
+
+Notes: Tasks will be checked off progressively as work completes.
