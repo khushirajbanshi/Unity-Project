@@ -1,7 +1,7 @@
 # Project Todo
 
 - [x] Base gallery layout and scene root setup
-- [ ] Import placeholder exhibits and set transforms
+- [x] Import placeholder exhibits and set transforms
 - [ ] Organize scene hierarchy and group prefabs
 - [ ] Adjust scales and alignment for imported models
 - [ ] Add display pedestals and secure anchors
