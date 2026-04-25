@@ -4,7 +4,7 @@
 - [x] Import placeholder exhibits and set transforms
 - [x] Organize scene hierarchy and group prefabs
 - [x] Adjust scales and alignment for imported models
-- [ ] Add display pedestals and secure anchors
+- [x] Add display pedestals and secure anchors
 - [ ] Rework gallery partitions and sightlines
 - [ ] Tune ambient and directional lighting
 - [ ] Add signage prefabs and info panels
