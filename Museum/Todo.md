@@ -5,7 +5,7 @@
 - [x] Organize scene hierarchy and group prefabs
 - [x] Adjust scales and alignment for imported models
 - [x] Add display pedestals and secure anchors
-- [ ] Rework gallery partitions and sightlines
+- [x] Rework gallery partitions and sightlines
 - [ ] Tune ambient and directional lighting
 - [ ] Add signage prefabs and info panels
 - [ ] Fix exhibit colliders and interaction volumes
