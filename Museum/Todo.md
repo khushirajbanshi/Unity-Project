@@ -7,7 +7,7 @@
 - [x] Add display pedestals and secure anchors
 - [x] Rework gallery partitions and sightlines
 - [x] Tune ambient and directional lighting
-- [ ] Add signage prefabs and info panels
+- [x] Add signage prefabs and info panels
 - [ ] Fix exhibit colliders and interaction volumes
 - [ ] Update floor material and texture tiling
 - [ ] Place decorative props and material tweaks
