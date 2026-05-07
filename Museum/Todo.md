@@ -10,7 +10,7 @@
 - [x] Add signage prefabs and info panels
 - [x] Fix exhibit colliders and interaction volumes
 - [x] Update floor material and texture tiling
-- [ ] Place decorative props and material tweaks
+- [x] Place decorative props and material tweaks
 - [ ] Extend east wing and add structural arch
 - [ ] Add waypoint markers for navigation
 - [ ] Optimize mesh imports and LODs
