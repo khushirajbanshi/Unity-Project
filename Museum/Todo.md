@@ -14,7 +14,7 @@
 - [x] Extend east wing and add structural arch
 - [x] Add waypoint markers for navigation
 - [x] Optimize mesh imports and LODs
-- [ ] Polish UI overlays and info panels
+- [x] Polish UI overlays and info panels
 - [ ] Fix camera and navigation edge cases
 - [ ] Final polish and performance tweaks
 
