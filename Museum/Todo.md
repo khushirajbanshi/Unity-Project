@@ -13,7 +13,7 @@
 - [x] Place decorative props and material tweaks
 - [x] Extend east wing and add structural arch
 - [x] Add waypoint markers for navigation
-- [ ] Optimize mesh imports and LODs
+- [x] Optimize mesh imports and LODs
 - [ ] Polish UI overlays and info panels
 - [ ] Fix camera and navigation edge cases
 - [ ] Final polish and performance tweaks
