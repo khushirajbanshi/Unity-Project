@@ -15,7 +15,7 @@
 - [x] Add waypoint markers for navigation
 - [x] Optimize mesh imports and LODs
 - [x] Polish UI overlays and info panels
-- [ ] Fix camera and navigation edge cases
+- [x] Fix camera and navigation edge cases
 - [ ] Final polish and performance tweaks
 
 Notes: Tasks will be checked off progressively as work completes.
