@@ -16,6 +16,6 @@
 - [x] Optimize mesh imports and LODs
 - [x] Polish UI overlays and info panels
 - [x] Fix camera and navigation edge cases
-- [ ] Final polish and performance tweaks
+- [x] Final polish and performance tweaks
 
 Notes: Tasks will be checked off progressively as work completes.
